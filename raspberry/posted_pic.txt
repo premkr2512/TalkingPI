@@ -1,0 +1,10 @@
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\biometric_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\fire_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\gas_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\heart_rate_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\humid_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\PIR_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\rain_detector
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\sound_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\temp_sensor
+C:\Users\welcome\IdeaProjects\prem1\instapost_stuff\ultra_sonic_sensor
